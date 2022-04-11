@@ -1,3 +1,27 @@
 @import 'tailwindcss/dist/base.css';
 @import 'tailwindcss/dist/components.css';
 @import 'tailwindcss/dist/utilities.css';
+
+.p-3{
+    
+    background-color:  rgb(167 139 250);
+    border-radius: 20px;
+    color: white;
+    font-weight: bold;
+    padding: 5px;
+    margin-top: 12px;
+}
+.bg{
+   
+    
+    
+}
+
+.miClase{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    color: rgb(167 139 250);
+    font-weight: bold;
+    margin-top: 10px;
+}
